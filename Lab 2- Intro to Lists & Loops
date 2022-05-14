@@ -1,0 +1,60 @@
+# Exercise 1
+[100,200,400,800]
+
+# Exercise 2
+bacteria=[100,200,400,800]
+
+# Exercise 3
+Values of bacteria: [0]= 100, [1]=200
+
+# Exercise 3
+bacteria=[100,200,400,800]
+bacteria[0]
+
+bacteria=[100,200,400,800]
+bacteria[1]
+
+# Exercise 4
+bacteria.append(1600)
+
+# Exercise 5
+bacteria.append(3200)
+
+# Exercise 6
+kingdoms=["Bacteria","Protists","Plants","Fungi","Animals"]
+kingdoms.append("Archaea")
+kingdoms.append("Archaea")
+print kingdoms
+
+When kingdoms.append("Archaea") is added twice, it will be added twice on the list
+
+# Exercise 7
+for num in [2,3,5,7,11,13]:
+    f=3*num
+    print(f)
+    
+# Exercise 8
+for num in [3,8,7]:
+    f=2+num
+    print(f)
+
+# Exercise 9
+for kpop in ["SHINee", "SuperM", "Ateez"]:
+    print kpop+ " is one of my favorite kpop groups"
+    
+# Exercise 10
+Examples 6 and 7 are adding a loop which affects the value of the integers in the list such as multiplying or adding.
+
+# Exercise 11
+for num in [2,3,5,7,11,13]:
+    f=10*num
+    print(f)
+    
+# Exercise 12
+for anime in ["Silent Voice", "Your Name", "Fireworks"]:
+    print anime + " is one of my favorite anime movies"
+    
+# Exercise 13
+for num in [15,27,39,84]:
+    f=num^(2)
+    print(f)
