@@ -1,0 +1,108 @@
+# Exercise 1
+3
+
+
+# Exercise 2
+1775
+
+# Exercise 3
+2*2
+
+# Exercise 4
+10/4
+(10/4)
+
+# Exercise 5
+1775/6
+
+# Exercise 6
+1775/6
+float(1775/6)
+
+# Exercise 7
+2.5^6
+
+# Exercise 8
+mice=3
+mice
+
+# Exercise 9
+prod=7*94
+prod
+
+# Exerice 10
+#Defining variable >>a
+#Defining variable >>b
+#>>val defines value between a*b
+#val find result of val variable
+#18096 is total between a*b
+
+# Exercise 11
+a=67*45
+b=93*442
+val=a*b
+val
+
+# Exercise 12
+a=76.2 + 35.1
+sqrt(a)
+
+# Exercise 13
+mice^20
+
+# Exercise 14
+100
+
+# Exercise 15
+#It is adding 1 to dalmations giving it a total of 101
+
+# Exercise 16
+num=5
+num=num+2
+num
+
+# Exercise 17
+a=37
+float(sqrt(a))
+
+# Exercie 18
+ln(27.5)
+
+# Exercise 19
+a=625-810
+float(sqrt(abs(a)))
+
+# Exercise 20
+a=5^(8.7)
+float(sqrt(ln(a)))
+
+# Exercise 21 Part1 
+
+a=625-810
+b=abs(a)
+c=sqrt(b)
+float(c)
+
+# Exercise 21 Part 2
+a=5^(8.7)
+b=ln(a)
+c=sqrt(b)
+float(c)
+
+# Exercise 22
+abs(-2)
+
+# Exercise 23
+ln(35.)
+
+# Exercise 24
+plot(x^(1/2), (x, 0, 1000))
+
+# Exercise 25
+plot(abs(x), (x, -10, 10))
+
+# Exercise 26
+plot(5*(x^4), (x,-2,2), color="green")
+
+# Exercise 27
+plot(2*x, (x,5,25)) + plot(x^2, (x,3,25), color="red")
